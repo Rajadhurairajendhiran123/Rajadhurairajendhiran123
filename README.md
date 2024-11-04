@@ -62,9 +62,6 @@ With 1.5 years in Generative AI and NLP, I aim to create impactful solutions. My
 
 <h3 align="left">🚀 Current Projects:</h3>
 
-- **Insurance Genie** - Powered by the Agami Platform at iAgami Technologies, this AI chatbot provides customer support and insurance insights, leveraging NLP and data science.
-  
-- **Harvest Eye Genie Chatbot** - An AI-based assistant that translates farmers' harvest data into actionable insights, aiding in data-driven decision-making.
 
 - **LLM Quantization Research** - Featured in *Chapter 9 of "Building LLMs for Production"*, my work here focuses on optimizing large language models for efficiency in production environments.
 
