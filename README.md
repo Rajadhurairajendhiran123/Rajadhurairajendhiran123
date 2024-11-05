@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rajadhurai Rajendhiran</h1>
 <h3 align="center">
-Welcome to my GitHub profile! I'm a passionate Generative AI Developer and Machine Learning Enthusiast with a background in AI, data science, and product development. Currently working at <strong>iAgami Technologies</strong>, I'm dedicated to creating innovative solutions using AI and exploring cutting-edge research in generative models, NLP, and more.
+Welcome to my GitHub profile! I'm a passionate Generative AI Developer and Machine Learning Enthusiast with a background in AI, data science, and product development. Currently working at <strong>iAgami Technologies</strong>, I'm dedicated to creating innovative AI solutions and exploring cutting-edge research in generative models, NLP, and more.
 </h3>
 
 ---
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
+  <a href=(https://www.linkedin.com/in/rajadhurai-rajendhiran](https://www.linkedin.com/in/rajadhurai-rajendhiran)" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:your-email@domain.com" target="_blank" rel="noreferrer">
+  <a href="mailto: rajadhurai.rajendhiran21@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/rajadhurai" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Generative AI Developer and Machi
 
 <h3 align="left">💼 About Me:</h3>
 <p align="left">
-With 1.5 years in Generative AI and NLP, I aim to create impactful solutions. My expertise bridges technical and business perspectives, from R&D to product development. I'm always open to collaborations, especially in AI and ML-driven solutions.
+With 1 year in Generative AI and NLP, I aim to create impactful solutions. My expertise bridges technical and business perspectives, from R&D to product development. I'm always open to collaborations, especially in AI and ML-driven solutions.
 </p>
 
 ---
@@ -62,22 +62,21 @@ With 1.5 years in Generative AI and NLP, I aim to create impactful solutions. My
 
 <h3 align="left">🚀 Current Projects:</h3>
 
-
 - **LLM Quantization Research** - Featured in *Chapter 9 of "Building LLMs for Production"*, my work here focuses on optimizing large language models for efficiency in production environments.
 
 ---
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajadhurai&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajadhurai&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 <h3 align="left">🌱 Currently Learning:</h3>
 <p align="left">
-Following <strong>Andrej Karpathy's LLM 101 Course</strong>, I’m deepening my understanding of LLMs. My learning includes:
+Following <strong>I’m deepening my understanding of LLMs. My learning includes:
 - Bigram Language Models
 - Transformers and Attention Mechanisms
 - Optimization, Fine-tuning, Quantization
