@@ -134,5 +134,3 @@ Mathematics & Data Science (Python), OOPs, Algorithms and Data Structures I & II
 Data Analytics (PowerBI, Python), Data Visualization (Tableau, Matplotlib), Computational Theory
 
 ---
-
-> *This portfolio was generated to reflect a deep integration of LLMs, multi-agent systems, and multimodal AI across industry domains. Feel free to connect or collaborate!*
