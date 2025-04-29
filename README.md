@@ -1,97 +1,138 @@
-<h1 align="center">Hi 👋, I'm Rajadhurai Rajendhiran</h1>
-<h3 align="center">
-Welcome to my GitHub profile! I'm a passionate Generative AI Developer and Machine Learning Enthusiast with a background in AI, data science, and product development. Currently working at <strong>iAgami Technologies</strong>, I'm dedicated to creating innovative AI solutions and exploring cutting-edge research in generative models, NLP, and more.
-</h3>
+# Rajadurai Rajendhiran
+
+📞 **Phone:** +91 8870377813  
+📧 **Email:** [rajadhurai.rajendhiran21@gmail.com](mailto:rajadhurai.rajendhiran21@gmail.com)  
+💼 **GitHub:** [Rajadhurairajendhiran123](https://github.com/Rajadhurairajendhiran123)  
+🔗 **LinkedIn:** [Rajadurai Rajendhiran](http://linkedin.com/in/rajadhurai-rajendhiran-2474b82b1)
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href=(https://www.linkedin.com/in/rajadhurai-rajendhiran](https://www.linkedin.com/in/rajadhurai-rajendhiran)" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto: rajadhurai.rajendhiran21@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/rajadhurai" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-</p>
+## 🧠 Summary
+Passionate about AI, ML, DL, Computer Vision, Physical AI, and Computational Theory. Skilled in applying math, optimization, and technology to build innovative, real-world AI solutions.
 
 ---
 
-<h3 align="left">💼 About Me:</h3>
-<p align="left">
-With 1 year in Generative AI and NLP, I aim to create impactful solutions. My expertise bridges technical and business perspectives, from R&D to product development. I'm always open to collaborations, especially in AI and ML-driven solutions.
-</p>
+## 💼 Work Experience
+
+### **AI Research and Developer – Intern**  
+**iAgami Technologies** | *Mar 2024 – Present*
+
+- Spearheading AI research and development across Agriculture, Insurance, Talent Acquisition, Finance, and Business Intelligence domains.
+- Worked on LLM fine-tuning and foundational model building for domain-specific applications.
+- Built advanced systems using Information Retrieval, GNNs, and NLP-to-SQL pipelines.
+- Integrated LLMs, AI agents, and multimodal retrieval systems for real-time Q&A and decision support.
+- Developed transformer-based models, dashboards, and deployed scalable AI workflows.
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+## 📈 Professional Project Experience on Agami Platform – iAgami Technologies
+
+### **Domain-Specific LLM Fine-Tuning & Foundational Model Building**
+*PyTorch, Hugging Face Transformers, LangChain, Weights & Biases, PEFT (LoRA), GRPO, JAX, TRL*
+
+- Fine-tuned BERT, GPT using LoRA, GRPO, and SFT for Agri, Finance, and Insurance.
+- Built foundational LLMs with advanced prompting and optimization pipelines.
+
+### **NLP-to-SQL & Knowledge Graph-Based QA**
+*LangChain, Neo4j, NetworkX, SentenceTransformers, Django REST API*
+
+- Created pipelines to convert NL queries into SQL.
+- Combined vector search with KG traversal for RAG capabilities.
+
+### **Multimodal Retrieval System**
+*CLIP, ViT, FAISS, OpenCV, Hugging Face, Django REST API*
+
+- Developed image-text embedding search for harvest and insurance data.
+- Exposed functionality via Django REST API endpoints.
+
+### **AI Agent Framework for BI Automation**
+*CrewAI, AutoGen, LangGraph, Streamlit, Django*
+
+- Built multi-agent LLM frameworks for reporting, summarization, and BI insights.
+- Orchestrated LLM workflows in real time.
+
+### **Graph Neural Networks for Knowledge Representation**
+*DGL, PyG, Neo4j, RecBole, LightFM, Pytorch, JAX*
+
+- Designed hybrid recommenders using collaborative filtering + GNNs.
+- Applied in talent-matching and HR analytics.
+
+### **Talent Acquisition Agent with Resume Parsing**
+*spaCy, AutoGen, LangGraph, LlamaIndex, PyMuPDF, Markdown Parser*
+
+- Converted resumes (PDF → Markdown) and matched profiles using LLM agents.
+- Built backend with Django REST API.
 
 ---
 
-<h3 align="left">🚀 Current Projects:</h3>
+## 🔬 Research Contributions – AI R&D @ iAgami
 
-- **LLM Quantization Research** - Featured in *Chapter 9 of "Building LLMs for Production"*, my work here focuses on optimizing large language models for efficiency in production environments.
+### **1. Foundational Model Research & Optimization**
+*Tools: PyTorch, JAX, Hugging Face, ScaNN, W&B, Hydra*
+
+- Domain-aligned model training using LoRA, GRPO, PPO.
+- Designed scalable LLM architectures and RL fine-tuning loops.
+
+### **2. Modular Multi-Agent Systems**
+*Tools: LangGraph, AutoGen, CrewAI, FastAPI, Streamlit*
+
+- Built agents for parsing, Q&A, SQL generation, memory retention, and logic execution.
+
+### **3. Retrieval-Augmented Pipelines & Knowledge Architectures**
+*Tools: LlamaIndex, LangChain, FAISS, Neo4j*
+
+- Combined vector + KG-based search with PDF-to-Markdown parsing for retrieval tasks.
+
+### **4. Multimodal Understanding & Vision-Text Fusion**
+*Tools: CLIP, ViT, OpenCV, Roboflow*
+
+- Enabled vision-text reasoning, object detection, OCR, and multimodal Q&A systems.
+
+### **5. Knowledge Graph & GNN-Based Reasoning**
+*Tools: Neo4j, PyG, DGL, RecBole, LightFM*
+
+- Built KGs and used GNNs for recommendation, analytics, and intelligent matchmaking.
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajadhurai&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajadhurai&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🛠 Technical Skills
+
+### **Languages & Frameworks:**  
+Python, R, Mojo, Java, C++, Julia, SQL, PyTorch, TensorFlow, JAX, Scikit-learn, XGBoost, LightGBM
+
+### **AI/ML Concepts:**  
+Classification, Regression, Clustering, Deep Learning, Transfer Learning, GANs, Diffusion, RL, Few/Zero-shot, Self-Supervised Learning
+
+### **NLP & CV:**  
+Hugging Face, SpaCy, NLTK, OpenCV, YOLO, ViT, CLIP, MediaPipe, OCR, Text Summarization, RAG, BERT, GPT, DSPy, TextGrad
+
+### **Agent Frameworks:**  
+LangChain, LangGraph, AutoGen, CrewAI (flexible with any multi-agent systems)
+
+### **IR & Knowledge Systems:**  
+FAISS, Semantic Search, Knowledge Graphs, Neo4j, GNNs (PyG, DGL), Recommenders (LightFM, RecBole)
+
+### **Tools & MLOps:**  
+FastAPI, Django, Docker, Git, GitHub Actions, ONNX, DVC, MLflow, Weights & Biases, Gradio
+
+### **Cloud:**  
+AWS (SageMaker, Lambda, Robomaker), GCP (Vertex AI, BigQuery), Azure ML, Azure IoT
+
+### **Data & Visualization:**  
+Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI, Streamlit, Plotly
 
 ---
 
-<h3 align="left">🌱 Currently Learning:</h3>
-<p align="left">
-Following <strong>I’m deepening my understanding of LLMs. My learning includes:
-- Bigram Language Models
-- Transformers and Attention Mechanisms
-- Optimization, Fine-tuning, Quantization
-</p>
+## 🎓 Education
+
+**Sri Shanmugha College of Engineering and Technology**  
+*Expected Graduation: June 2026*  
+**B.Tech in Artificial Intelligence and Data Science**
+
+**Relevant Courses:**  
+Mathematics & Data Science (Python), OOPs, Algorithms and Data Structures I & II,  
+Data Analytics (PowerBI, Python), Data Visualization (Tableau, Matplotlib), Computational Theory
 
 ---
 
-<h3 align="left">🔍 Research Interests:</h3>
-- LLM Memory Systems  
-- Retrieval-Augmented Generation (RAG) Systems  
-- Development of Action Agents for vision, code generation, and automation  
-
----
-
-<h3 align="center">📫 Let's Connect and Collaborate!</h3>
-<p align="center">
-Feel free to reach out if you'd like to work together on innovative AI projects or simply to connect!
-</p>
+> *This portfolio was generated to reflect a deep integration of LLMs, multi-agent systems, and multimodal AI across industry domains. Feel free to connect or collaborate!*
